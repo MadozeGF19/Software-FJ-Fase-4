@@ -1,0 +1,11 @@
+2026-11-22 16:21:43,178 - INFO - === SISTEMA SOFTWARE FJ INICIALIZADO ===
+2026-11-22 16:21:43,178 - INFO - CLIENTE REGISTRADO: Cliente [C001]: Carlos Mendoza (carlos@mail.com)
+2026-11-22 16:21:43,178 - ERROR - ERROR AL REGISTRAR CLIENTE [C002]: El correo 'correo_invalido_sin_arroba' no tiene un formato válido.
+2026-11-22 16:21:43,179 - INFO - SERVICIO REGISTRADO: Servicio [S001]: Sala de Conferencias A - Base: $50000.00
+2026-11-22 16:21:43,179 - INFO - SERVICIO REGISTRADO: Servicio [S002]: Kit de Streaming 4K - Base: $80000.00
+2026-11-22 16:21:43,179 - INFO - SERVICIO REGISTRADO: Servicio [S003]: Arquitectura en la Nube - Base: $120000.00
+2026-11-22 16:21:43,179 - INFO - RESERVA EXITOSA: Reserva [R001] | Cliente: Carlos Mendoza | Servicio: Sala de Conferencias A | Estado: CONFIRMADA | Total: $214,200.00
+2026-11-22 16:21:43,179 - ERROR - ERROR EN RESERVA [R002]: Error procesando la reserva R002: La reserva de sala debe ser entre 1 y 12 horas.
+2026-11-22 16:21:43,179 - INFO - CLIENTE REGISTRADO: Cliente [C003]: Laura Restrepo (laura@tech.org)
+2026-11-22 16:21:43,179 - INFO - RESERVA EXITOSA: Reserva [R003] | Cliente: Laura Restrepo | Servicio: Kit de Streaming 4K | Estado: CONFIRMADA | Total: $339,150.00
+2026-11-22 16:21:43,179 - ERROR - ERROR EN RESERVA [R004]: El servicio solicitado no existe o no está disponible.
