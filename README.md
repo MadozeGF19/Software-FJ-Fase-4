@@ -6,7 +6,7 @@ Este repositorio contiene la solución completa para la **Fase 4 (Prácticas sim
 
 ---
 
-## 🚀 Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 ```text
 UNAD-SoftwareFJ-Fase4/
@@ -27,7 +27,7 @@ UNAD-SoftwareFJ-Fase4/
 
 ---
 
-## 🛠️ Requerimientos Cumplidos
+## Requerimientos Cumplidos
 
 1. **Abstracción e Herencia**: Clase base abstracta `EntidadBase` y clase abstracta `Servicio` de la cual heredan `ReservaSala`, `AlquilerEquipo` y `AsesoriaEspecializada`.
 2. **Encapsulamiento**: Propiedades privadas/protegidas con getters y setters validados (e.g., validación de correo mediante expresiones regulares y validación de teléfono).
@@ -41,7 +41,7 @@ UNAD-SoftwareFJ-Fase4/
 
 ---
 
-## 💻 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 Para ejecutar la simulación de las 10 operaciones en consola:
 
