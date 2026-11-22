@@ -51,7 +51,7 @@ python main.py
 
 ---
 
-## 👥 Equipo de Trabajo
+## Equipo de Trabajo
 - **Curso**: Programación (213023)
 - **Grupo**: 558
 - **Universidad**: Universidad Nacional Abierta y a Distancia (UNAD)
